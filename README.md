@@ -1,4 +1,11 @@
-# CSTU-NEXUS-Backend
+> [!WARNING]
+> ### 📦 Repository นี้ถูกย้ายแล้ว (Moved to Monorepo)
+> โปรเจกต์นี้ได้รับการรวมศูนย์และย้ายไปพัฒนาต่อในรูปแบบ Monorepo แล้วที่:  
+> 👉 **[CSTU-NEXUS (Main Monorepo)](https://github.com/jubiep/CSTU-NEXUS.git)**
+> 
+> *Repository นี้ถูกตั้งสถานะเป็น Read-only (Archived) เพื่อใช้อ้างอิงประวัติเท่านั้น*
+
+# CSTU NEXUS Backend
 
 Backend และ Database สำหรับโปรเจกต์ **CSTU NEXUS — Course Decision Hub** ซึ่งเป็นระบบสนับสนุนการตัดสินใจเลือกเรียนรายวิชาของนักศึกษา
 
